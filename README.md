@@ -39,25 +39,6 @@
 
 </div>
 
-## 🎯 Featured Projects
-
-### 🎓 [Utopia](https://github.com/kimagure-ningen/utopia)
-A matching app for Tokyo University students built with Flutter and Firebase
-- 🔥 Real-time chat functionality
-- 🔐 Secure authentication
-- 🎨 Modern, intuitive UI
-
-### 🍜 [Crossdish](https://github.com/kimagure-ningen/crossdish)
-Connecting tourists with Tokyo university students for authentic dining experiences
-- 📱 Tinder-style swiping interface
-- 📅 Availability scheduling system
-- ⭐ Review and rating system
-
-### 📸 [OishiLens](https://github.com/kimagure-ningen/oishilens)
-AI-powered assistant for foreign tourists to navigate Japanese restaurant menus
-- 🤖 GPT-powered translations
-- 🍱 Cultural context explanations
-- 🎮 Gamification elements
 
 ## 📫 Connect with Me
 
