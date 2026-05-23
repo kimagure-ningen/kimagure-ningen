@@ -9,16 +9,13 @@
 ## 🚀 About Me
 
 - 🎓 Student at **UTokyo**
-- 💻 Passionate about creating applications that connect people
 - 🔭 Currently working on **UTopia**
 - 🌱 Learning **Python**, **Flutter**, and **Web Development**
 - 🎮 Experienced in **Unity/C#** game development
-- 🏆 Active participant in development contests
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
